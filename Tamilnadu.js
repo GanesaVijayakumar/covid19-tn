@@ -18,34 +18,34 @@ FusionCharts.ready(function () {
         },
         data: [{
             label: "CHENNAI",
-            value: "91"
-        }, {
-            label: "DINDIGUL",
-            value: "43"
-        }, {
-            label: "TIRUNELVELI",
-            value: "37"
+            value: "98"
         }, {
             label: "COIMBATORE",
-            value: "33"
+            value: "62"
+        }, {
+            label: "DINDIGUL",
+            value: "42"
+        }, {
+            label: "TIRUNELVELI",
+            value: "38"
         }, {
             label: "ERODE",
             value: "27"
         },{
             label: "NAMAKKAL",
-            value: "24"
+            value: "25"
         }, {
             label: "THENI",
-            value: "23"
+            value: "24"
         }, {
             label: "RANIPET",
-            value: "22"
+            value: "24"
         }, {
             label: "KARUR",
             value: "22"
         }, {
-            label: "TIRUCHIRAPPALLI	",
-            value: "18"
+            label: "VILUPPURAM",
+            value: "19"
         }]
     };
 

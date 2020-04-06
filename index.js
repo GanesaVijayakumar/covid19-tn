@@ -16,7 +16,7 @@ class App extends Component {
         <div>
           <p>
             <h2>Covid-19 - Top 10 cities</h2>
-            <h5>Updated: 05/04/2020 01:30 PM</h5>
+            <h5>Updated: 06/04/2020 08:10 AM</h5>
           </p>
         </div>
         <Tamilnadu />
